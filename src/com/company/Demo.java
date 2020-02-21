@@ -26,9 +26,9 @@ public class Demo {
     public static void main(String[] args) {
 
         //replace real AK
-        String ak = "MYFFA76Q3JR2VM3VTYAC";
+        String ak = "";
         //replace real SK
-        String sk = "3WXUcv9CPZ3zFQg4KhC2HvFGmVVOUMSBRDJeOV89";
+        String sk = "";
 
         // get method
         //replace real url
